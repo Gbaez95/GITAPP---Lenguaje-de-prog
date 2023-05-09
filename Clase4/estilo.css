@@ -1,0 +1,30 @@
+#contenedor {    
+    
+}
+
+
+#cabecera{
+   color: green;
+
+}
+
+#texto{
+    color:black;
+}
+
+#menu{
+    float : left;
+    width: 20%;
+    color: blue;
+   
+}
+
+#contenido{
+    
+   
+
+}
+
+#pie{
+    clear: both;
+}
