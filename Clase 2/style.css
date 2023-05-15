@@ -1,0 +1,39 @@
+html{
+    background-color: aqua;
+}
+
+a{
+    color: gold;
+}
+
+u{
+    color:black;
+}
+
+ul{
+    color: black;
+}
+
+#pagina{
+    background-color: aqua;
+}
+
+#titulo{
+    color:blueviolet;
+    position:relative;
+    animation: alternate;
+    background-color: aqua
+}
+
+
+#texto{
+    color:blue;
+}
+
+#cabecera{
+    color:red;
+}
+
+#pie{
+    clear: both;
+}
